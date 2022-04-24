@@ -1,6 +1,6 @@
- * @parameter: The operator
- * @f: The function associated
- */
+#ifndef MAIN_H
+#define MAIN_H
+#include <stdio.h>
 
 typedef struct print
 {
